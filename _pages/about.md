@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 #About Me
 ======
 I am currently a third year PhD student studying at Renmin University of China, specializing in Big Data Science and Engineering. I have already received my Master of Engineering degree from Zhejiang University of Technology, specializing in Computer Science and Technology. I received my B.S. degree from Shandong Normal University.
