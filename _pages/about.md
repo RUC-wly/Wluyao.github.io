@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "王璐瑶 Luyao Wang"
 author_profile: true
 redirect_from: 
   - /about/
